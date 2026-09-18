@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Água",
+  "description": "Aplicativo simples e intuitivo para controle diário de ingestão de água com cálculo de meta personalizada, histórico e evolução de planta virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
